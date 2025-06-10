@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Imdb_List_Pratik": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
